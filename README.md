@@ -6,7 +6,7 @@ Wanna reach me out directly. Go here https://www.linkedin.com/in/rashedkhanarif/
 - I’m currently learning  Node.js and React Native
 - I'm currently learning Microservice
 
-With a 5+ years of experience i have done so many projects, some of my tools & tech listed below.
+With a 6+ years of experience i have done so many projects, some of my tools & tech listed below.
 
 - Android Application (eCommerce Marketplace)
 - Web Application using Django (Scientific Research & Publication)
